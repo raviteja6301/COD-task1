@@ -1,7 +1,7 @@
 Name: MEKAOTHULA RAVITEJA
 Id: CT08DS1592
 Domain: Data Science
-Duration: 5-06-2024 to 5-07-2024
+Duration: 05-06-2024 to 05-07-2024
 Mentor Name: Sravani Gouni
 --------------------------
 Description:
